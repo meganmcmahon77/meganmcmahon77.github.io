@@ -1,6 +1,6 @@
 body {
 	background-image: url("imgs/sky.png");
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	text-align: center;
 	margin: 0px;
 	font-family: Georgia, serif;
